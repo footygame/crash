@@ -1,7 +1,9 @@
 {
 	"data":{
-    "id": "winnergame",
+    "id": "10010",
+	"wb": "www.google.com",
     "opne":10010,
+	"name":"username"
 	"url": "https://docs.google.com/document/u/winnergame"
 	}
 }
