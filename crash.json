@@ -2,8 +2,9 @@
 	"data":{
     "id": "10010",
 	"wb": "www.google.com",
-    "open":25145248,
+    "open":1,
 	"name":"username"
-	"url": "https://docs.google.com/document/u/winnergame"
+	"url": "https://docs.google.com/document/u/winnergame",
+	"agName":"app/9fgame"
 	}
 }
